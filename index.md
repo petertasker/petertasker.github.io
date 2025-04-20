@@ -3,6 +3,16 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site
+# Hi, I'm Peter
 
-Check out the [About](/about/), [Projects](/projects/), or [Contact](/contact/) pages.
+Welcome to my site!
+
+## About Me
+I'm a developer, writer, etc...
+
+## Projects
+- Cool thing 1
+- Cool thing 2
+
+## Contact
+Email me at example@example.com
