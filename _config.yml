@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Peter Tasker's Page!
 descrption: Some cool stuff I've done
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Cool Stuff"
+    url: "/projects"
+  - title: "Contact Me"
+    url: "/contact"
