@@ -10,7 +10,7 @@ title: Home
 
 I'm an undergraduate Computer Science student at the University of Strathclyde. I was born in Glasgow, Scotland, have four cats, and enjoy playing the piano and guitar, although I'm terrible at both of them 😉.  
 
-I'm currently on the look for seasonal internships while I am in my undergraduate course 👀.
+I'm currently on the look for seasonal internships while I am in my undergraduate course.
 
 ## Projects
 
