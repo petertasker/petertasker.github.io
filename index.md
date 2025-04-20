@@ -13,7 +13,7 @@ I'm an undergraduate Computer Science student at the University of Strathclyde. 
 I'm currently on the look for seasonal internships while I am in my undergraduate course.
 
 ## Projects
-
+Some cool projects that I've worked on recently
 - [Scotbank](https://github.com/petertasker/scotbank) - A full-stack banking application written with a Springboot-esque Java framework, for a university module ran by JPMorganChase
 - [100 Exercises to Learn Rust](https://github.com/petertasker/100-exercises-to-learn-rust) - A starter guide to learning the Rust language, covering traits, structs, concurrency, and much more
 - [Practical Python](https://github.com/petertasker/practical-python) - A series of python projects with real world applications
@@ -21,7 +21,7 @@ I'm currently on the look for seasonal internships while I am in my undergraduat
 
 ## What have I recently been up to?
 
-(20/04/2025) I have been recently experimenting with web services, manipulating APIs for my benefit. I've made a scraper for the popular game distributor [Steam](https://store.steampowered.com/), and in invoice generator, which utilise `GET` and `POST` requests. You can find them at [Practical Python](https://github.com/petertasker/practical-python).
+(20/04/2025) I have been recently experimenting with web services, manipulating APIs for my own personal benefit. I've made a scraper for the popular game distributor [Steam](https://store.steampowered.com/), and an invoice generator, which utilise `GET` and `POST` requests. You can find them at [Practical Python](https://github.com/petertasker/practical-python).
 
 ## Contact
 
