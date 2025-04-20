@@ -8,14 +8,16 @@ title: Home
 
 ## About Me
 
-I'm an undergraduate Computer Science student at the University of Strathclyde. I was born in Glasgow, Scotland, have four cats, and enjoy playing the piano and guitar, although I'm terrible at both of them 😉.
+I'm an undergraduate Computer Science student at the University of Strathclyde. I was born in Glasgow, Scotland, have four cats, and enjoy playing the piano and guitar, although I'm terrible at both of them 😉.  
+
+I'm currently on the look for seasonal internships while I am in my undergraduate course 👀.
 
 ## Projects
 
-- [Scotbank](https://github.com/petertasker/scotbank)
-- [100 Exercises to Learn Rust](https://github.com/petertasker/100-exercises-to-learn-rust)
-- [Practical Python](https://github.com/petertasker/practical-python)
-- [CS210 Shell](https://github.com/petertasker/cs210-shell)
+- [Scotbank](https://github.com/petertasker/scotbank) - A full-stack banking application written with a Springboot-esque Java framework, for a university module ran by JPMorganChase
+- [100 Exercises to Learn Rust](https://github.com/petertasker/100-exercises-to-learn-rust) - A starter guide to learning the Rust language, covering traits, structs, concurrency, and much more
+- [Practical Python](https://github.com/petertasker/practical-python) - A series of python projects with real world applications
+- [CS210 Shell](https://github.com/petertasker/cs210-shell) - A UNIX shell written in C 
 
 ## What have I recently been up to?
 
