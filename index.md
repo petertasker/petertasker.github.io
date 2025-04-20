@@ -23,8 +23,20 @@ I'm an undergraduate Computer Science student at the University of Strathclyde. 
 
 ## Contact
 
-You can email me at [petertasker05@gmail.com](mailto:petertasker05@gmail.com), or [peter.tasker.2023@uni.strath.ac.uk](mailto:peter.tasker.2023@uni.strath.ac.uk)  
+### Mail me
+
+You can email me about absolutely anything at:   
+[petertasker05@gmail.com](mailto:petertasker05@gmail.com), or  
+[peter.tasker.2023@uni.strath.ac.uk](mailto:peter.tasker.2023@uni.strath.ac.uk).
+
+### Socials
+
+You can find my LinkedIn here: [https://www.linkedin.com/in/peter-tasker/](https://www.linkedin.com/in/peter-tasker/)
+
+### CV
+
 You can find my CV below:
+
 <iframe src="assets/cv.pdf" width="100%" height="600px" style="border: none;">
   This browser does not support embedded PDFs. You can <a href="assets/cv.pdf">download the CV here</a>.
 </iframe>
