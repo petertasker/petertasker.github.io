@@ -36,7 +36,8 @@ You can find my CV below:
   </iframe>
 </div>
 
-<div style="margin-top: 4rem; height: 60px;"></div>
-<footer style="position: fixed; bottom: 0; left: 0; right: 0; padding: 1rem 0; text-align: center; font-size: 0.9rem; color: #666; background-color: #f5f5f5; border-top: 1px solid #e0e0e0;">
-  Last updated on 30 April 2025
+<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 2rem;">
+  <span>Last updated on 30 April 2025</span>
+  <span style="margin-left: 1rem;">|</span>
+  <span>Hosted by <a href="https://pages.github.com/" style="color: inherit;">GitHub Pages</a></span>
 </footer>
