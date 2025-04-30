@@ -31,13 +31,14 @@ You can find my Linked In here: [https://www.linkedin.com/in/peter-tasker/](http
 ### CV
 You can find my CV below:
 <div class="cv-container">
-  <iframe src="assets/cv.pdf" width="100%" height="600px" style="border: none;">
+  <iframe src="assets/cv.pdf" width="100%" height="800px" style="border: none;">
     This browser does not support embedded PDFs. You can <a href="assets/cv.pdf">download the CV here</a>.
   </iframe>
 </div>
 
-<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 2rem;">
-  <span>Last updated on 30 April 2025</span>
-  <span style="margin-left: 1rem;">|</span>
-  <span>Hosted by <a href="https://pages.github.com/" style="color: inherit;">GitHub Pages</a></span>
-</footer>
+<div class="footer" style="margin-top: 2rem; border-top: 1px solid #eee; padding-top: 1rem;">
+  <p style="text-align: center; font-size: 0.9rem; color: #666;">
+    <span>Last updated on 30 April 2025</span>
+    <span style="margin-left: 1rem;">|</span> 
+</p>
+</div>
