@@ -20,7 +20,7 @@ Some cool projects that I've worked on recently
 - [CS210 Shell](https://github.com/petertasker/cs210-shell) - A UNIX shell written in C 
 
 ## What have I recently been up to?
-
+(30/04/2025) I've written a couple more [practical python](https://github.com/petertasker/practical-python) scripts, notably, an SMS service which will tell you the next upcoming LoL game, an automation tool that uses a local ML model to turn news articles into short summaries, which are then overlaid as captions on a neatly cropped version of the article's header image, as well as an interactive map which visualises the pinged server locations of your browser history. I'm considering looking into game development as an oppurtinity to learn Unity / C# or C++.   
 (20/04/2025) I have been recently experimenting with web services, manipulating APIs for my own personal benefit. I've made a scraper for the popular game distributor [Steam](https://store.steampowered.com/), and an invoice generator, which utilise `GET` and `POST` requests. You can find them at [Practical Python](https://github.com/petertasker/practical-python).
 
 ## Contact
@@ -43,3 +43,6 @@ You can find my CV below:
   This browser does not support embedded PDFs. You can <a href="assets/cv.pdf">download the CV here</a>.
 </iframe>
 
+<footer style="margin-top: 2rem; text-align: center; font-size: 0.9rem; color: #666;">
+  Last updated on 30 April 2025
+</footer>
