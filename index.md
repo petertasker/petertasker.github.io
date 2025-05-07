@@ -24,7 +24,7 @@ applications
 (06/05/2025) I've started creating some assets and small Godot scenes for a game I plan on creating called 
 **"Shostakovich"**. It will be a 16-bit stealth game (somewhat akin to metal gear), where you play as Dmitri Shostakovich, a Soviet era composer, in the city of
 Leningrad during it's 1941 invasion. You will have to evade both flavours of dictatorial regime whilst either crafting
-Shostakovich's Symphony no.9, or transporting it -- I've not yet made up my mind. You can see how it's getting along 
+Shostakovich's Symphony no.7, or transporting it -- I've not yet made up my mind. You can see how it's getting along 
 [**here**](https://github.com/petertasker/shostakovich).
 
 (30/04/2025) I've written a couple more [**Practical Python**](https://github.com/petertasker/practical-python) scripts, 
@@ -56,7 +56,7 @@ You can find my CV below:
 
 <div class="footer" style="margin-top: 2rem; border-top: 1px solid #eee; padding-top: 1rem;">
   <p style="text-align: center; font-size: 0.9rem; color: #666;">
-    <span>Last updated on 6 May 2025</span>
+    <span>Last updated on 7 May 2025</span>
     <span style="margin-left: 1rem;">|</span> 
 </p>
 </div>
