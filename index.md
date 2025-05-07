@@ -57,6 +57,5 @@ You can find my CV below:
 <div class="footer" style="margin-top: 2rem; border-top: 1px solid #eee; padding-top: 1rem;">
   <p style="text-align: center; font-size: 0.9rem; color: #666;">
     <span>Last updated on 7 May 2025</span>
-    <span style="margin-left: 1rem;">|</span> 
 </p>
 </div>
