@@ -10,7 +10,6 @@ I'm currently on the look for seasonal internships while I am in my undergraduat
 
 ## Projects
 Some cool projects that I've worked on recently
-- [**Shostakovich**](https://github.com/petertasker/shostakovich) - A historical stealth action game written in Godot
 - [**Scotbank**](https://github.com/petertasker/scotbank) - A full-stack banking application written with a Springboot-esque
 Java framework, for a university module ran by JPMorganChase (98% final grade)
 - [**100 Exercises to Learn Rust**](https://github.com/petertasker/100-exercises-to-learn-rust) - A starter guide to 
@@ -20,12 +19,6 @@ applications
 - [**Simple Shell**](https://github.com/petertasker/cs210-shell) - A UNIX shell written in C
 
 ## What have I recently been up to?
-
-(06/05/2025) I've started creating some assets and small Godot scenes for a game I plan on creating called 
-**"Shostakovich"**. It will be a 16-bit stealth game (somewhat akin to metal gear), where you play as Dmitri Shostakovich, a Soviet era composer, in the city of
-Leningrad during it's 1941 invasion. You will have to evade both flavours of dictatorial regime whilst either crafting
-Shostakovich's Symphony no.7, or transporting it -- I've not yet made up my mind. You can see how it's getting along 
-[**here**](https://github.com/petertasker/shostakovich).
 
 (30/04/2025) I've written a couple more [**Practical Python**](https://github.com/petertasker/practical-python) scripts, 
 notably, an SMS service which will tell you the next upcoming LoL game, an automation tool that uses a local ML model to
