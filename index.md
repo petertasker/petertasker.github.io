@@ -42,7 +42,7 @@ You can find my Linked In here: [https://www.linkedin.com/in/peter-tasker/](http
 ### CV
 You can find my CV below:
 <div class="cv-container">
-  <iframe src="assets/Cv.pdf" width="100%" height="800px" style="border: none;">
+  <iframe src="assets/cv.pdf" width="100%" height="800px" style="border: none;">
     This browser does not support embedded PDFs. You can <a href="assets/cv.pdf">download the CV here</a>.
   </iframe>
 </div>
