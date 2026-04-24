@@ -30,6 +30,9 @@ I've made a scraper for the popular game distributor [**Steam**](https://store.s
 which utilise `GET` and `POST` requests. You can find them at
 [**Practical Python**](https://github.com/petertasker/practical-python).
 
+(24/04/2026) I've recently stumbled my way into receiving funding an EPSRC research internship! Without spoiling too much, my research will be adding to the burgening academic area of deceptive patterns (aka dark patterns) online which are designed to manipulate you to act against your interest. I'm terribly excited and truly lucky to start what will hopefully be a greatly transformative and informative experience. And in the future I may require some (possibly paid) volunteers for experiments!
+
+
 ## Contact
 ### Mail me
 You can email me about absolutely anything at:   
