@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Peter Tasker's Page
 description: A wee bit about me
+
+header_pages:
+  - index.md
+  - thoughts.md
