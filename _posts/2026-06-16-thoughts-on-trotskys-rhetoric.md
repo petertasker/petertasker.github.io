@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trotsky on the Balkans, Stalin, and Ukraine"
-permalink: /writing/trotsky-rhetoric/
+permalink: /writing/trotsky/
 ---
 
 > “There was an old bastard named Lenin 
