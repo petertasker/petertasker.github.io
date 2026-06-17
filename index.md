@@ -20,7 +20,9 @@ applications
 
 ## Writing
 
-- [Thoughts on Leon Trotsky's Rhetoric](\_posts\2026-06-16-thoughts-on-trotskys-rhetoric.md)
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ## What have I recently been up to?
 

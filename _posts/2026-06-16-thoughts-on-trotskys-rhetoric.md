@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Thoughts on Trotsky and his Rhetoric"
+permalink: /writing/trotsky-rhetoric/
 ---
-
 
 > “There was an old bastard named Lenin 
 >
