@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peter Tasker
+title: About
 ---
 # Peter Tasker
 ## About Me
@@ -41,4 +41,4 @@ which utilise `GET` and `POST` requests. You can find them at
 [**Practical Python**](https://github.com/petertasker/practical-python).
 
 ## Contact
-You can contact me using: [petertasker05@gmail.com](mailto:petertasker05@gmail.com), or at [https://www.linkedin.com/in/peter-tasker/](https://www.linkedin.com/in/peter-tasker/)
+You can contact me on LinkedIn at [https://www.linkedin.com/in/peter-tasker/](https://www.linkedin.com/in/peter-tasker/)
