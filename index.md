@@ -20,7 +20,7 @@ applications
 
 ## Writing
 
-- [Thoughts & Musings](/thoughts/)
+- [Thoughts on Leon Trotsky's Rhetoric](\_posts\2026-06-16-thoughts-on-trotskys-rhetoric.md)
 
 ## What have I recently been up to?
 
