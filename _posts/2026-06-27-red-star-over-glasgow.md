@@ -77,7 +77,7 @@ He continues talking about the electrification of Venezuelan houses and its bene
 
 I interject: "Finland, Latvia, Estonia... All these countries were once in the Eastern Bloc, and they clearly don't want to be in the Russian sphere of influence. You saw Georgia attacked in 2008 by Russia, Crimea and the Donbas in 2014, and now this full invasion four years ago."
 
-"I think there's a lot of Western interference. We are not here to defend Russia. But it's interesting. I was in Riga a few years ago. Latvia has brought in laws that only ethnic Latvians can get a passport, meaning ethnic Russians who moved there in the post-war era..."
+"I think there's a lot of Western interference. We are not here to defend Russia. But it's interesting. I was in Riga a few years ago. Latvia has brought in laws that only ethnic Latvians can get a passport, meaning ethnic Russians who moved there in the post-war era can do nothing..."
 
 "...When the Baltic States broke away from the Soviet Union, there was an immediate power crisis because all their power was imported from Russia proper."
 
