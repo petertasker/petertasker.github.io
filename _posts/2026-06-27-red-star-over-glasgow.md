@@ -205,7 +205,7 @@ He points down to the *Friends of Israel* tent, which is flying, among Stars of 
 
 "They want to hide the truth and spread lies so *they* can take control of the land. Since when was the Middle East unstable? Since 1917, when the British Mandate of Palestine was established, and since 1948, when Israel was established, and all the Jewish immigrants from the Second World War migrated to a safe haven. Palestine was fully furnished. We had railways. We had our own aeroplanes. We had passports. In fact, most Israeli leaders came to Palestine with Palestinian passports, and they say we weren't a country?! They sacked all of the Palestinian employees from all the Ministries and replaced them with Jews...
 
-"...The Middle East is the centre of the Earth, and that's why the British wanted to control it. From the river Jordan to the Mediterranean Sea." I am reminded that "Mediterranean" means "middle of the Earth." "...That's why Israel and America want Palestine and Iran now..."
+"...The Middle East is the centre of the Earth, and that's why the British wanted to control it. From the river Jordan to the Mediterranean Sea." I remember that "Mediterranean" means "middle of the Earth." "...That's why Israel and America want Palestine and Iran now..."
 
 "...Have you stopped recording?"
 
