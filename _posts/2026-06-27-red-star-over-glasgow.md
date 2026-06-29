@@ -149,7 +149,7 @@ I pass the Israeli tent, and lo and behold: another Palestine tent! A serious-lo
 
 The man agrees to be interviewed and I start speaking into my phone. "I am here at the..." The man points to one of his flyers. "...Friends of Palestine Charity Organisation." He stresses his charity ID.
 
-"...We, the PCO, were established in 2015, and before that we were called the Justice for Palestine Centre, established in 2001. As a registered charity organisation, we are helping Palestinians in need, in both the lands of Palestine and internationally... We sell merchandise and collect donations. Our organisation does not take any wages; we are all volunteers.
+"...We, the FPCO, were established in 2015, and before that we were called the Justice for Palestine Centre, established in 2001. As a registered charity organisation, we are helping Palestinians in need, in both the lands of Palestine and internationally... We sell merchandise and collect donations. Our organisation does not take any wages; we are all volunteers.
 
 "...Our aim is to build the best possible home for the Palestinian people — to *remain on their homeland*, not to evacuate. We don't want any more Zionists to migrate to Palestine..."
 
