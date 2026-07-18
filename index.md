@@ -5,7 +5,14 @@ title: About
 # Peter Tasker
 ## About Me
 I'm an undergraduate Computer Science student at the University of Strathclyde. I'm from Glasgow, Scotland, I have four 
-cats, and I enjoy playing the piano and guitar, although I'm terrible at both of them 😉. I like to read and write. Below you can find some projects and musings.
+cats, and I enjoy playing the piano and guitar. I also like to read and write. Below you can find some projects and musings.
+
+## Writing
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
 
 ## Projects
 
@@ -18,11 +25,6 @@ learning the Rust language, covering traits, structs, concurrency, and much more
 applications
 - [**Simple Shell**](https://github.com/petertasker/cs210-shell) - A UNIX shell written in C
 
-## Writing
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
 
 ## What have I recently been up to?
 
