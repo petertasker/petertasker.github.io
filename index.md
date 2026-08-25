@@ -16,7 +16,7 @@ You are asked to write one or more scenarios where an agentic AI embodied in ext
 
 By participating, you are eligible for a £5 gift voucher as compensation, subject to conditions outlined in the Participant Information Sheet.
 
-For more information please find the attached poster, scan the QR code, click the link below, or email peter.tasker.2023@uni.strath.ac.uk.
+click the link above, or email peter.tasker.2023@uni.strath.ac.uk.
 
 This study has the ethics approval of the Department of Computer and Information Sciences of the University of Strathclyde 
 
