@@ -7,6 +7,19 @@ title: About
 I'm an undergraduate Computer Science student at the University of Strathclyde. I'm from Glasgow, Scotland, I have four 
 cats, and I enjoy playing the piano and guitar. I also like to read and write. Below you can find some projects and musings.
 
+## Take part in my study
+https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2
+
+We invite you to participate in our study investigating deceptive designs in the context of virtual agents embodied within extended reality.
+
+You are asked to write one or more scenarios where an agentic AI embodied in extended reality is being manipulative. 
+
+By participating, you are eligible for a £5 gift voucher as compensation, subject to conditions outlined in the Participant Information Sheet.
+
+For more information please find the attached poster, scan the QR code, click the link below, or email peter.tasker.2023@uni.strath.ac.uk.
+
+This study has the ethics approval of the Department of Computer and Information Sciences of the University of Strathclyde 
+
 ## Writing
 
 {% for post in site.posts %}
