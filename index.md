@@ -7,8 +7,8 @@ title: About
 I'm an undergraduate Computer Science student at the University of Strathclyde. I'm from Glasgow, Scotland, I have four 
 cats, and I enjoy playing the piano and guitar. I also like to read and write. Below you can find some projects and musings.
 
-## Take part in my study
-https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2
+## Take part in my study!
+[https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2](https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2)
 
 We invite you to participate in our study investigating deceptive designs in the context of virtual agents embodied within extended reality.
 
