@@ -9,7 +9,7 @@ I am a Researcher and 4ᵗʰ Year Computer Science student at the University of 
 During Summer 2026 I had executed a user study and produced a Human-Computer Interaction research paper---working with both Academia and Industry---which has been submitted to ACM. You can find my research paper below, as well as some miscellaneous prose and reportage!  
 
 ## Research Output
-[Deceptive Agents in Extended Reality: A Speculative User Study](/assets/deceptive_designs_in_xr.pdf)
+- [**Deceptive Agents in Extended Reality: A Speculative User Study**](/assets/deceptive_designs_in_xr.pdf)
 
 
 ## Writing
