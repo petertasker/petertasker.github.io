@@ -13,8 +13,7 @@ During Summer 2026 I had executed a user study and produced a Human-Computer Int
 
 
 ## Writing
-
-{% for post in site.posts %}
+{%- for post in site.posts -%}
 - [**{{ post.title }}**]({{ post.url }})
 {% endfor %}
 
