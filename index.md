@@ -7,18 +7,10 @@ title: About
 I'm an undergraduate Computer Science student at the University of Strathclyde. I'm from Glasgow, Scotland, I have four 
 cats, and I enjoy playing the piano and guitar. I also like to read and write. Below you can find some projects and musings.
 
-## Take part in my study!
-[https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2](https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2)
 
-We invite you to participate in our study investigating deceptive designs in the context of virtual agents embodied within extended reality.
+## Research Output
+[Deceptive Agents in Extended Reality: A Speculative User Study](/assets/deceptive_designs_in_xr.pdf)
 
-You are asked to write one or more scenarios where an agentic AI embodied in extended reality is being manipulative. 
-
-By participating, you are eligible for a £5 gift voucher as compensation, subject to conditions outlined in the Participant Information Sheet.
-
-click the link above, or email peter.tasker.2023@uni.strath.ac.uk.
-
-This study has the ethics approval of the Department of Computer and Information Sciences of the University of Strathclyde 
 
 ## Writing
 
@@ -54,6 +46,21 @@ article's header image, as well as an interactive map which visualises the pinge
 I've made a scraper for the popular game distributor [**Steam**](https://store.steampowered.com/), and an invoice generator,
 which utilise `GET` and `POST` requests. You can find them at
 [**Practical Python**](https://github.com/petertasker/practical-python).
+
+## ~~Take part in my study!~~
+_The survey has now finished, but it may go live at some point in the future._
+
+[https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2](https://strath.eu.qualtrics.com/jfe/form/SV_5bydgORlpLXRIW2)
+
+We invite you to participate in our study investigating deceptive designs in the context of virtual agents embodied within extended reality.
+
+You are asked to write one or more scenarios where an agentic AI embodied in extended reality is being manipulative. 
+
+By participating, you are eligible for a £5 gift voucher as compensation, subject to conditions outlined in the Participant Information Sheet.
+
+click the link above, or email peter.tasker.2023@uni.strath.ac.uk.
+
+This study has the ethics approval of the Department of Computer and Information Sciences of the University of Strathclyde 
 
 ## Contact
 You can contact me on LinkedIn at [https://www.linkedin.com/in/peter-tasker/](https://www.linkedin.com/in/peter-tasker/)
