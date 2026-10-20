@@ -9,8 +9,7 @@ I am a Researcher and 4ᵗʰ Year Computer Science student at the University of 
 During Summer 2026 I had executed a user study and produced a Human-Computer Interaction research paper---working with both Academia and Industry---which has been submitted to ACM. You can find my research paper below, as well as some miscellaneous prose and reportage!  
 
 ## Research Output
-- [**Deceptive Agents in Extended Reality: A Speculative User Study**](/assets/deceptive_designs_in_xr.pdf)
-
+- Paper is currently under review at ACM.
 
 ## Writing
 
@@ -20,7 +19,7 @@ During Summer 2026 I had executed a user study and produced a Human-Computer Int
 
 ## What have I recently been up to?
 
-**(25/09/2026)** I return to university after finishing my research paper. You can read it in one of the sections above. I am now preparing to continue my Deceptive Design research for my final project. Simultaneously, I have become a tutor for a HCI module and a lab demonstrator for a programming module. Result! I have been gifted the oppurtunity to present my research to parties in Industry, Academia, and Student-dom (F-Secure, Cyberlab, HCI module).  
+**(25/09/2026)** I return to university after finishing my research paper. You will soon be able to read it in one of the sections above. I am now preparing to continue my Deceptive Design research for my final project. Simultaneously, I have become a tutor for a HCI module and a lab demonstrator for a programming module. Result! I have been gifted the oppurtunity to present my research to parties in Industry, Academia, and Student-dom (F-Secure, Cyberlab, HCI module).  
 
 **(24/04/2026)** I've recently stumbled my way into receiving funding an EPSRC research internship! Without spoiling too much, my research will be adding to the burgening academic area of Deceptive Designs (a.k.a. Dark Patterns) online which are designed to manipulate you to act against your interest. I'm terribly excited and truly lucky to start what will hopefully be a greatly transformative and informative experience. And in the future I may require some (possibly paid) volunteers for experiments!
 
